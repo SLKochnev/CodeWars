@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript target="_blank">Multiply</a></h2><h3>8 kyu</h3><p>Этот код не выполняется должным образом. Попробуй выяснить, почему.</p>
